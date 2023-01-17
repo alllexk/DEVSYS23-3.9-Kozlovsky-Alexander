@@ -28,14 +28,14 @@ Apache и сертификат установлены
 
 ![ SSH сервер ](https://github.com/alllexk/DEVSYS23-3.9-Kozlovsky-Alexander/blob/main/images/5%20SSH%20key.jpg)
 
- https://drive.google.com/file/d/1kPHsCCScVPS7YO0IlGPSDZttujwlaKkk/view?usp=share_link
-
  # 6
 
  Для этого отредактируем файл hosts и можно будет подключаться по имени
- https://drive.google.com/file/d/1rv12ilUZX-2J8qR8oloif1380_ujhX1G/view?usp=share_link
+
+ ![ Hosts ](https://github.com/alllexk/DEVSYS23-3.9-Kozlovsky-Alexander/blob/main/images/6%20host%20name.png)
 
 # 7
 
 Dump снят и загружен в Wireshark
-https://drive.google.com/file/d/1lHUXQoQe9vGNvTUQixxPQm00VHF4--lX/view?usp=share_link
+
+![ Dump ](https://github.com/alllexk/DEVSYS23-3.9-Kozlovsky-Alexander/blob/main/images/7%20tcpdump%20to%20wireshark.png)
