@@ -11,15 +11,23 @@ Google authentificator для Bitwarden настроен успешно
 
 # 3
 
-![ ](https://github.com/alllexk/DEVSYS23-3.9-Kozlovsky-Alexander/blob/main/images/3%20Apache%20%26%20Cert.png)
+Apache и сертификат установлены
+
+![ Установка Apache ](https://github.com/alllexk/DEVSYS23-3.9-Kozlovsky-Alexander/blob/main/images/3%20Apache%20%26%20Cert.png)
 
 # 4
 
-https://drive.google.com/file/d/1hod67ZvDg8fvZ7L6Tq9DzUJBTZSMokYD/view?usp=share_link
+Проверка на уязвимости
+
+![ Проверка на уязвимости ](https://github.com/alllexk/DEVSYS23-3.9-Kozlovsky-Alexander/blob/main/images/4%20TLS%20Testing.png)
+
 
 # 5
 
  SSH сервер установлен, ключ успешно сгенерирован и подключение к серверу по ключу проходит.
+
+![ SSH сервер ](https://github.com/alllexk/DEVSYS23-3.9-Kozlovsky-Alexander/blob/main/images/5%20SSH%20key.jpg)
+
  https://drive.google.com/file/d/1kPHsCCScVPS7YO0IlGPSDZttujwlaKkk/view?usp=share_link
 
  # 6
