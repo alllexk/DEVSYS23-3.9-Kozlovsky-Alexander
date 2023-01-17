@@ -1,5 +1,7 @@
 # 1
 
+Bitwarden установлен
+
 ![ Bitwarden установлен ](https://github.com/alllexk/DEVSYS23-3.9-Kozlovsky-Alexander/blob/main/images/1%20Bitwarden.png)
 
 
