@@ -11,7 +11,7 @@ Google authentificator для Bitwarden настроен успешно
 
 # 3
 
-https://drive.google.com/file/d/1SLIf0qnPPJAMDZANdNSQToUF0J4e9Vmh/view?usp=share_link
+![ ](https://github.com/alllexk/DEVSYS23-3.9-Kozlovsky-Alexander/blob/main/images/3%20Apache%20%26%20Cert.png)
 
 # 4
 
