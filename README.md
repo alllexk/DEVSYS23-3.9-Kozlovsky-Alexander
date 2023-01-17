@@ -1,6 +1,7 @@
 # 1
 
 Bitwarden установлен
+![ ](https://github.com/alllexk/DEVSYS23-3.9-Kozlovsky-Alexander/blob/main/images/1%20Bitwarden.png)
 https://drive.google.com/file/d/1daElVvhxLrtrrOrMcl9gH9gq8sBWDCbg/view?usp=share_link
 
 # 2
